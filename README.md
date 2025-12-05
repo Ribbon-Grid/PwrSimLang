@@ -2,8 +2,7 @@
 PwrSimLang is used by psCARA, a Desktop ISE (Integrated Simulation Environment)
 
 ## Ownership
-PwrSimLang is Copyright 2025 & Intellectual Property of Ribbon Grid an Australian Company
-Ribbon Grid and psCARA are protected under Australian Trademarks 
+PwrSimLang is Copyright 2025 & Intellectual Property of Ribbon Grid an Australian Company. Ribbon Grid and psCARA are protected under Australian Trademarks.
 
 ## Description
 
@@ -27,4 +26,4 @@ Note that, the PwrSimLang is designed to be very simple, such that anyone can un
 The PwrSimLang is the first custom application layer language designed specifically for power systems modeling. It has been created to bridge the gap between Python Wizards (PSM Python automation experts) and electrical engineers.
 
 - Electrical Engineers are expected to use the simple plain text implementations created by Python Wizards.
-- Python Wizards develop the examples and inputs in the psCARA platform structure for EEs. 
+- Python Wizards develop the examples and inputs in the psCARA framework. This allows for automations that run on your laptop or a supercomputer, based on simple switch of a send-to input. 
