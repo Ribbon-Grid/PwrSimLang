@@ -26,4 +26,8 @@ Note that, the PwrSimLang is designed to be very simple, such that anyone can un
 The PwrSimLang is the first custom application layer language designed specifically for power systems modeling. It has been created to bridge the gap between Python Wizards (PSM Python automation experts) and electrical engineers.
 
 - Electrical Engineers are expected to use the simple plain text implementations created by Python Wizards.
-- Python Wizards develop the examples and inputs in the psCARA framework. This allows for automations that run on your laptop or a supercomputer, based on simple switch of a send-to input. 
+- Python Wizards develop the examples and inputs in the psCARA framework. This allows for automations that run on your laptop or a supercomputer, based on simple switch of a send-to input.
+
+## Learn More
+
+You can learn more about the PwrSimLang in the psCARA examples and by using the "Ask CARA" AI chat integrated into psCARA.
